@@ -29,5 +29,4 @@ This mini project focuses on Exploratory Data Analysis (EDA) using Python. It an
 ## Conclusion
 The project demonstrates how Python can be used for data preprocessing, exploratory analysis, visualization, and extracting meaningful insights from data
 
-## Conclusion
-The project demonstrates how Python can be used for data preprocessing, exploratory analysis, visualization, and extracting meaningful insights from data
+
